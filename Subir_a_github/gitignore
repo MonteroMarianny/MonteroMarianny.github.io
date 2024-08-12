@@ -1,0 +1,5 @@
+# Ignorar directorios y archivos específicos
+node_modules/
+.vagrant/
+*.log
+*.tmp
